@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "name": "Iphone 13",
+      "price": "123213",
+      "description": "Thông tin chi tiết sản phẩm Iphone 12",
+      "id": "oPSzE11HGgfcH0LJ4aSfd",
+      "descripton": "sadasdas"
+    },
+    {
+      "name": "samsung S21 Ultra",
+      "price": "99999999",
+      "descripton": "abc",
+      "id": "fps_zE0Ew5x8yQncAB85A"
+    },
+    {
+      "name": "Samsung A8",
+      "price": "10000000",
+      "descripton": "a7",
+      "id": "l7CPv4VXivRSaLsaDSUX4"
+    },
+    {
+      "name": "Iphone 13",
+      "price": "100000000",
+      "descripton": "abc",
+      "id": "kDMF9WXUjiJd2TqCYJ5bo"
+    }
+  ],
+  "users": [
+    {
+      "id": "5YsFNN42B14VYHhpDyizn",
+      "name": "Administrator",
+      "email": "admin@gmail.com",
+      "password": 123456
+    }
+  ]
+}
